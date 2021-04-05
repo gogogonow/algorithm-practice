@@ -1,0 +1,5 @@
+一、Queue
+    Queue为接口，包含add、offer、remove、poll、element、peek
+    element和peek区别在于当队列为空时element会抛异常，而peek不会
+二、PriorityQueue
+    PriorityQueue继承自AbstractQueue，内部使用Object[]数组存储

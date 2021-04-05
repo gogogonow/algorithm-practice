@@ -5,6 +5,6 @@ package week1;
  */
 public class TrappingRainWater42 {
     public int trap(int[] height) {
-
+        return 0;
     }
 }
