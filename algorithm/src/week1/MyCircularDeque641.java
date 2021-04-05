@@ -3,7 +3,7 @@ package week1;
 /**
  * @author 61404
  */
-public class MyCircularDeque {
+class MyCircularDeque {
 
     int[] elements;
     int index = 0;
